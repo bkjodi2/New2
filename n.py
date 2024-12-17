@@ -2,7 +2,7 @@ import requests
 import base64
 
 TOKEN = "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"
-REPO = "bkjodi2/New1"
+REPO = "bkjodi2/New2"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
